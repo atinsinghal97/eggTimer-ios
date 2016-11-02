@@ -7,6 +7,7 @@ The main code project is in the directory <b>Egg Timer</b>. Do not delete any fi
 
 The folder <b>Screenshots v1.1</b> contains the screenshots of the app's latest build
 
+<br>The source code of the webpage made for the app is hosted at https://github.com/atinsinghal97/eggTimer-appPage
 <br>Feel free to edit the code to improve the app.
 
 <b><i> NOTE 1: YOU WILL HAVE TO CHANGE THE BUNDLE IDENTIFIER AND THE TEAM IN XCODE PROJECT SETTINGS OR IT WILL GIVE MULTIPLE ERRORS BEFORE COMPILATION </i></b><br><br>
